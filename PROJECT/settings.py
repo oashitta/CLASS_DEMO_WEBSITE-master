@@ -32,7 +32,7 @@ SECRET_KEY = os.environ['DJANGO_SECRET_KEY'] # Instead of your actual secret key
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["prosperwebsite.herokuapp.com"]
+ALLOWED_HOSTS = ["web-deployment-mot.herokuapp.com"]
 
 
 # Application definition
